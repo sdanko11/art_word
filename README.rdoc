@@ -1,10 +1,10 @@
 == README
 
-This is a rails with a data base for an art gallery.
+This is a rails app with a database for an art gallery.
 
 The development of this database was driven with TDD(rspec)
 
-The data base is able to track artist information
+The database is able to track artist information
 
 The art gallery can create collections of artwork
 
