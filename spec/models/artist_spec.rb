@@ -1,8 +1,7 @@
 require 'spec_helper'
 
 describe Artist do
-  pending "add some examples to (or delete) #{__FILE__}"
-
+ 
   it { should have_valid(:name).when('steve danko', 'hollla', 'bugahti') }
   it { should_not have_valid(:name).when('', nil)}
 
